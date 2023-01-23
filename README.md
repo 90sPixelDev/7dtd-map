@@ -2,7 +2,7 @@
 
 Map renderer for 7 Day to Die.
 
-- https://7dtd-map.vercel.app/
+[Click here to view it live](https://7dtd-map.vercel.app/)
 
 ## Build
 
@@ -28,4 +28,4 @@ $ npm run lint
 
 ## Environment
 
-- Project created in original linux/ubuntu system, if receiving strange errors or no typescript build, make sure to develop/test project in a linux/ubuntu environment
+Project created in original linux/ubuntu system, if receiving strange errors or no typescript build, make sure to develop/test project in a linux/ubuntu environment
